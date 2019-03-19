@@ -1,0 +1,8 @@
+Czas filtrowania wynosi 0s 86547137ns, 1 wątków
+Czas filtrowania wynosi 0s 87113237ns, 1 wątków
+Czas filtrowania wynosi 0s 47756068ns, 2 wątków
+Czas filtrowania wynosi 0s 46879798ns, 2 wątków
+Czas filtrowania wynosi 0s 48829539ns, 4 wątków
+Czas filtrowania wynosi 0s 47366068ns, 4 wątków
+Czas filtrowania wynosi 0s 49703642ns, 8 wątków
+Czas filtrowania wynosi 0s 48544780ns, 8 wątków

@@ -1,0 +1,140 @@
+create_table, dynamic
+real time: 3
+user time: 0
+system time: 2
+add_10000_blocks, dynamic
+real time: 11
+user time: 9
+system time: 1
+search_element
+real time: 2
+user time: 2
+system time: 0
+
+
+create_table, dynamic
+real time: 3
+user time: 0
+system time: 2
+add_10000_blocks, dynamic
+real time: 10
+user time: 10
+system time: 0
+add_and_remove_10000_blocks, dynamic
+real time: 10
+user time: 9
+system time: 1
+
+
+create_table, static
+real time: 3
+user time: 3
+system time: 0
+add_1000_blocks, static
+real time: 1
+user time: 1
+system time: 0
+search_element
+real time: 0
+user time: 0
+system time: 0
+
+
+create_table, static
+real time: 3
+user time: 3
+system time: 0
+add_1000_blocks, static
+real time: 1
+user time: 1
+system time: 0
+add_and_remove_10000_blocks, static
+real time: 10
+user time: 10
+system time: 0
+
+
+create_table, dynamic
+real time: 2
+user time: 0
+system time: 2
+add_10000_blocks, dynamic
+real time: 10
+user time: 9
+system time: 0
+search_element
+real time: 0
+user time: 0
+system time: 0
+
+
+create_table, dynamic
+real time: 2
+user time: 0
+system time: 2
+add_10000_blocks, dynamic
+real time: 9
+user time: 8
+system time: 1
+add_and_remove_10000_blocks, dynamic
+real time: 9
+user time: 9
+system time: 1
+
+
+create_table, dynamic
+real time: 3
+user time: 0
+system time: 1
+add_10000_blocks, dynamic
+real time: 10
+user time: 9
+system time: 2
+search_element
+real time: 1
+user time: 1
+system time: 0
+
+
+create_table, dynamic
+real time: 2
+user time: 0
+system time: 2
+add_10000_blocks, dynamic
+real time: 10
+user time: 9
+system time: 1
+add_and_remove_10000_blocks, dynamic
+real time: 11
+user time: 10
+system time: 0
+
+
+create_table, dynamic
+real time: 2
+user time: 0
+system time: 2
+add_10000_blocks, dynamic
+real time: 11
+user time: 10
+system time: 0
+search_element
+real time: 1
+user time: 1
+system time: 0
+
+
+create_table, dynamic
+real time: 3
+user time: 0
+system time: 2
+add_10000_blocks, dynamic
+real time: 11
+user time: 10
+system time: 0
+add_and_remove_10000_blocks, dynamic
+real time: 11
+user time: 10
+system time: 1
+
+

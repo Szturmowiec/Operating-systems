@@ -1,0 +1,6 @@
+ls -al | head -3 | head -2 | tail -1
+ps aux | more
+cat wsad.c | more
+ls -al
+find . -name commands
+cat /etc/passwd | less

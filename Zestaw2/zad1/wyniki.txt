@@ -1,0 +1,65 @@
+copy_sys, record_size: 4, records_quantity: 50000
+user time: 1
+system time: 9
+
+copy_lib, record_size: 4, records_quantity: 50000
+user time: 0
+system time: 0
+
+sort_sys, record_size: 4, records_quantity: 50000
+user time: 270
+system time: 7
+
+sort_lib, record_size: 4, records_quantity: 50000
+user time: 259
+system time: 0
+
+copy_sys, record_size: 512, records_quantity: 20000
+user time: 1
+system time: 3
+
+copy_lib, record_size: 512, records_quantity: 20000
+user time: 0
+system time: 1
+
+sort_sys, record_size: 512, records_quantity: 20000
+user time: 48
+system time: 4
+
+sort_lib, record_size: 512, records_quantity: 20000
+user time: 50
+system time: 1
+
+copy_sys, record_size: 4096, records_quantity: 10000
+user time: 0
+system time: 8
+
+copy_lib, record_size: 4096, records_quantity: 10000
+user time: 1
+system time: 6
+
+sort_sys, record_size: 4096, records_quantity: 10000
+user time: 15
+system time: 4
+
+sort_lib, record_size: 4096, records_quantity: 10000
+user time: 15
+system time: 5
+
+copy_sys, record_size: 8192, records_quantity: 10000
+user time: 1
+system time: 11
+
+copy_lib, record_size: 8192, records_quantity: 10000
+user time: 0
+system time: 12
+
+sort_sys, record_size: 8192, records_quantity: 10000
+user time: 17
+system time: 8
+
+sort_lib, record_size: 8192, records_quantity: 10000
+user time: 18
+system time: 13
+
+Widzimy, że dla mniejszych rozmiarów rekordów funkcje systemowe są wolniejsze, przy czym czas użytkownika jest porównywalny, natomiast czas systemowy jest znacząco dłuższy dla funkcji systemowych. Dla większych rozmiarów rekordów funkcje systemowe zadziałały szybciej niż biblioteczne.
