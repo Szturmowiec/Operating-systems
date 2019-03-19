@@ -1,1 +1,2 @@
-# Operating-systems
+# Operating systems
+C programming course
